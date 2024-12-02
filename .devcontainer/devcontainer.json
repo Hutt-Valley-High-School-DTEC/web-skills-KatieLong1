@@ -5,12 +5,6 @@
             "openFiles": [
             "index.html"
             ]
-        },
-        "vscode": {
-            "extensions": [
-                "ritwickdey.LiveServer",
-                "vsls-contrib.gitdoc"
-            ],
         }
     }
 }
